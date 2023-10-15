@@ -1,5 +1,5 @@
 // MULTIPLICATION TABLE
-public class Main {
+public class multiplication_table {
 	public static void main(String[] args) {
 		
 		int table = 10;
